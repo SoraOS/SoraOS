@@ -10,7 +10,7 @@ root_checking(){
 }
 
 clean(){
-    return
+    rm -rf ./output
 }
 
 install_packages(){
