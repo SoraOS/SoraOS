@@ -14,7 +14,7 @@ clean(){
 }
 
 install_packages(){
-    pacman -Sy --needed --noconfirm archiso mkinitcpio
+    pacman -Sy --needed --noconfirm archiso mkinitcpio-archiso
 }
 
 build(){
