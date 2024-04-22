@@ -4,8 +4,8 @@ arch-install-scripts
 archinstall
 b43-fwcutter
 base
+base-devel
 bash
-bolt
 broadcom-wl
 btrfs-progs
 cryptsetup
@@ -17,7 +17,6 @@ dosfstools
 e2fsprogs
 edk2-shell
 efibootmgr
-espeakup
 ethtool
 exfatprogs
 gptfdisk
@@ -28,17 +27,13 @@ intel-ucode
 iw
 iwd
 less
-libfido2
-libusb-compat
 linux
 linux-firmware
 livecd-sounds
-lynx
 man-db
 man-pages
 memtest86+
 memtest86+-efi
-mkinitcpio
 mkinitcpio-archiso
 mkinitcpio-nfs-utils
 modemmanager
@@ -57,13 +52,8 @@ reflector
 sg3_utils
 smartmontools
 squashfs-tools
-sudo
 syslinux
 systemd-resolvconf
-terminus-font
-tmux
-tpm2-tools
-tpm2-tss
 usb_modeswitch
 usbmuxd
 usbutils
@@ -78,8 +68,17 @@ bluez
 bluez-utils
 networkmanager
 
+# Utils
+git
+
 # X.org
 mesa
+mesa-utils
+nvidia
+nvidia-utils
+xf86-input-libinput
+xf86-video-amdgpu
+xf86-video-ati
 xclip
 xorg
 xorg-server
@@ -105,6 +104,7 @@ ttf-fira-sans
 
 # Xfce4
 blueberry
+firefox
 galculator
 lightdm
 lightdm-slick-greeter
