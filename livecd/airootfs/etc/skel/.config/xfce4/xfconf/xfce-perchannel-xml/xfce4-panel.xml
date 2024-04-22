@@ -9,11 +9,13 @@
       <property name="position" type="string" value="p=8;x=960;y=1066"/>
       <property name="length" type="uint" value="100"/>
       <property name="position-locked" type="bool" value="true"/>
-      <property name="icon-size" type="uint" value="18"/>
+      <property name="icon-size" type="uint" value="22"/>
       <property name="size" type="uint" value="42"/>
       <property name="plugin-ids" type="array">
         <value type="int" value="7"/>
-        <value type="int" value="13"/>
+        <value type="int" value="1"/>
+        <value type="int" value="5"/>
+        <value type="int" value="4"/>
         <value type="int" value="2"/>
         <value type="int" value="3"/>
         <value type="int" value="6"/>
@@ -30,9 +32,10 @@
     <property name="plugin-2" type="string" value="tasklist">
       <property name="grouping" type="uint" value="1"/>
       <property name="show-labels" type="bool" value="false"/>
-      <property name="show-handle" type="bool" value="false"/>
+      <property name="show-handle" type="bool" value="true"/>
       <property name="flat-buttons" type="bool" value="false"/>
       <property name="sort-order" type="uint" value="1"/>
+      <property name="include-all-monitors" type="bool" value="false"/>
     </property>
     <property name="plugin-3" type="string" value="separator">
       <property name="expand" type="bool" value="true"/>
@@ -65,11 +68,8 @@
       <property name="digital-time-font" type="string" value="Fira Sans Bold 9"/>
       <property name="digital-time-format" type="string" value="%b %d (%a) %R"/>
     </property>
-    <property name="plugin-13" type="string" value="separator">
-      <property name="style" type="uint" value="0"/>
-    </property>
     <property name="plugin-7" type="string" value="whiskermenu">
-      <property name="show-button-title" type="bool" value="false"/>
+      <property name="show-button-title" type="bool" value="true"/>
       <property name="profile-shape" type="int" value="1"/>
       <property name="position-categories-alternate" type="bool" value="true"/>
       <property name="recent" type="array">
@@ -81,6 +81,36 @@
       <property name="position-search-alternate" type="bool" value="true"/>
       <property name="hover-switch-category" type="bool" value="true"/>
       <property name="show-button-icon" type="bool" value="true"/>
+      <property name="items" type="array">
+      </property>
+      <property name="button-title" type="string" value=" SoraOS"/>
+    </property>
+    <property name="plugin-24" type="empty">
+      <property name="items" type="array">
+      </property>
+    </property>
+    <property name="plugin-23" type="empty">
+      <property name="items" type="array">
+      </property>
+    </property>
+    <property name="plugin-25" type="empty">
+      <property name="items" type="array">
+      </property>
+    </property>
+    <property name="plugin-1" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17138082591.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-4" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17138083102.desktop"/>
+      </property>
+    </property>
+    <property name="plugin-5" type="string" value="launcher">
+      <property name="items" type="array">
+        <value type="string" value="17138083133.desktop"/>
+      </property>
     </property>
   </property>
 </channel>
