@@ -1,5 +1,6 @@
 # SoraOS
 A simple, lightweight distro based on Arch Linux
+![scrot](https://i.imgur.com/Mw4Ib2Fh.jpg)
 
 # Build
 1. Install required packages
