@@ -98,20 +98,28 @@ noto-fonts-extra
 ttf-fira-code
 ttf-fira-sans
 
-# Xfce4
+# Desktop
 blueman
 firefox
 galculator
+gnome-terminal
 lightdm
 lightdm-slick-greeter
 mpv
 neofetch
-network-manager-applet
-pavucontrol
+polkit-gnome
 rhythmbox
-xfce4
-xfce4-goodies
+shotwell
+thunderbird
+touchegg
+xed
 
 # Themes
 arc-gtk-theme
 papirus-icon-theme
+
+# SoraOS config
+soraos-cinnamon
+
+# AUR
+yay-bin
