@@ -12,6 +12,7 @@
       <property name="icon-size" type="uint" value="22"/>
       <property name="size" type="uint" value="42"/>
       <property name="plugin-ids" type="array">
+        <value type="int" value="14"/>
         <value type="int" value="7"/>
         <value type="int" value="1"/>
         <value type="int" value="5"/>
@@ -24,6 +25,7 @@
         <value type="int" value="10"/>
         <value type="int" value="11"/>
         <value type="int" value="12"/>
+        <value type="int" value="13"/>
       </property>
       <property name="background-style" type="uint" value="0"/>
     </property>
@@ -44,6 +46,7 @@
     <property name="plugin-6" type="string" value="systray">
       <property name="square-icons" type="bool" value="true"/>
       <property name="known-items" type="array">
+        <value type="string" value="blueman"/>
         <value type="string" value="Fcitx"/>
       </property>
       <property name="known-legacy-items" type="array">
@@ -73,10 +76,16 @@
       <property name="profile-shape" type="int" value="1"/>
       <property name="position-categories-alternate" type="bool" value="true"/>
       <property name="recent" type="array">
-        <value type="string" value="xfce4-settings-editor.desktop"/>
+        <value type="string" value="xfce4-taskmanager.desktop"/>
+        <value type="string" value="virtualbox.desktop"/>
+        <value type="string" value="org.xfce.ristretto.desktop"/>
+        <value type="string" value="org.xfce.Parole.desktop"/>
+        <value type="string" value="xfce-workspaces-settings.desktop"/>
+        <value type="string" value="xfce4-screensaver-preferences.desktop"/>
+        <value type="string" value="blueman-manager.desktop"/>
         <value type="string" value="xfce4-terminal-emulator.desktop"/>
+        <value type="string" value="xfce4-settings-editor.desktop"/>
         <value type="string" value="xfce-settings-manager.desktop"/>
-        <value type="string" value="galculator.desktop"/>
       </property>
       <property name="position-search-alternate" type="bool" value="true"/>
       <property name="hover-switch-category" type="bool" value="true"/>
@@ -111,6 +120,12 @@
       <property name="items" type="array">
         <value type="string" value="17138083133.desktop"/>
       </property>
+    </property>
+    <property name="plugin-13" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
+    </property>
+    <property name="plugin-14" type="string" value="separator">
+      <property name="style" type="uint" value="0"/>
     </property>
   </property>
 </channel>
