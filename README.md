@@ -27,7 +27,8 @@ sudo ./make.sh
 - [x] Xfce theming
 - [x] Add /etc/os-release 
 - [x] Nvidia support (iso)
-- [ ] SoraOS repo
+- [ ] SoraOS packages repo
+- [ ] yay (AUR helper)
 - [ ] Grub theme
 - [ ] Autologin iso
 - [ ] Installer (calamares)
