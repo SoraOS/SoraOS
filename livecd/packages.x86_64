@@ -1,5 +1,4 @@
 # Necessary
-amd-ucode
 arch-install-scripts
 archinstall
 b43-fwcutter
@@ -22,8 +21,6 @@ exfatprogs
 gptfdisk
 grub
 hdparm
-hyperv
-intel-ucode
 iw
 iwd
 less
@@ -35,21 +32,15 @@ man-pages
 memtest86+
 memtest86+-efi
 mkinitcpio-archiso
-mkinitcpio-nfs-utils
 modemmanager
 mtools
 ntfs-3g
 nvme-cli
 open-vm-tools
-openconnect
 openpgp-card-tools
 openssh
-openvpn
 parted
-qemu-guest-agent
 refind
-reflector
-sg3_utils
 smartmontools
 squashfs-tools
 syslinux
@@ -62,6 +53,10 @@ wireless_tools
 wpa_supplicant
 xfsprogs
 zsh
+
+# CPU
+amd-ucode
+intel-ucode
 
 # System
 bluez
