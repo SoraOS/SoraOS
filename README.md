@@ -24,14 +24,4 @@ sudo ./make.sh
 ```
 
 # TO-DO
-- [x] Xfce theming
-- [x] Add /etc/os-release
-- [x] LightDM (display manager)
-- [x] Nvidia support (iso)
-- [ ] SoraOS packages repo
-- [ ] yay (AUR helper)
-- [ ] Grub theme
-- [ ] Autologin iso
-- [ ] Installer (calamares)
-- [ ] Nvidia support (system)
-- [ ] Wizard software
+[here](https://github.com/orgs/SoraOS/projects/1/)
