@@ -25,7 +25,8 @@ sudo ./make.sh
 
 # TO-DO
 - [x] Xfce theming
-- [x] Add /etc/os-release 
+- [x] Add /etc/os-release
+- [x] LightDM (display manager)
 - [x] Nvidia support (iso)
 - [ ] SoraOS packages repo
 - [ ] yay (AUR helper)
