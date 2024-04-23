@@ -1,5 +1,26 @@
 # SoraOS
-a simple distro
+A simple, lightweight distro based on Arch Linux
+
+# Build
+1. Install required packages
+```
+sudo pacman -Sy archiso mkinitcpio-archiso
+```
+
+3. Clone this repo
+```
+git clone https://github.com/SoraOS/SoraOS
+```
+
+3. Go to source dir
+```
+cd SoraOS/livecd
+```
+
+4. Build iso
+```
+sudo ./make.sh
+```
 
 # TO-DO
 - [x] Xfce theming
