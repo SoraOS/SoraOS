@@ -9,7 +9,6 @@ broadcom-wl
 btrfs-progs
 cryptsetup
 dhclient
-dhcpcd
 dmraid
 dnsmasq
 dosfstools
@@ -21,12 +20,10 @@ exfatprogs
 gptfdisk
 grub
 hdparm
-iw
 iwd
 less
 linux
 linux-firmware
-livecd-sounds
 lsb-release
 man-db
 man-pages
@@ -38,10 +35,8 @@ mtools
 ntfs-3g
 nvme-cli
 open-vm-tools
-openpgp-card-tools
 openssh
 parted
-refind
 smartmontools
 squashfs-tools
 syslinux
@@ -104,6 +99,7 @@ cinnamon
 firefox
 galculator
 gnome-terminal
+gnome-screenshot
 lightdm
 lightdm-slick-greeter
 mpv
