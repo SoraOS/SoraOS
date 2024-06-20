@@ -91,33 +91,19 @@ noto-fonts-cjk
 noto-fonts-emoji
 noto-fonts-extra
 ttf-fira-code
-ttf-fira-sans
 
 # Desktop
-blueman
-cinnamon
 firefox
-galculator
-gnome-terminal
-gnome-screenshot
-gnome-system-monitor
-lightdm
-lightdm-slick-greeter
-mpv
+flatpak
+gdm
+gnome
+gnome-browser-connector
+gnome-tweaks
+gnome-shell-extensions
 neofetch
-polkit-gnome
-rhythmbox
-shotwell
-thunderbird
-touchegg
-xed
-
-# Themes
-arc-gtk-theme
-papirus-icon-theme
 
 # SoraOS config
-soraos-cinnamon
+soraos-gnome
 
 # AUR
 yay-bin
