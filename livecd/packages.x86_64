@@ -105,5 +105,16 @@ neofetch
 # SoraOS config
 soraos-gnome
 
+# Installer
+calamares
+kconfig
+kcoreaddons
+ki18n
+kiconthemes
+polkit-qt6
+qt6-base
+qt6-svg
+solid
+
 # AUR
 yay-bin
