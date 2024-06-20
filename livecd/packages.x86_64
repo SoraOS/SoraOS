@@ -110,10 +110,17 @@ kconfig
 kcoreaddons
 ki18n
 kiconthemes
+kpmcore
 polkit-qt6
 qt6-base
 qt6-svg
+qt6-tools
+qt6-translations
+qt6-webengine
+qt6-xmlpatterns
+qt6ct
 solid
+yaml-cpp
 
 # AUR
 yay-bin
