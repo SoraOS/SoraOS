@@ -13,11 +13,6 @@ setopt hist_ignore_dups
 #PROMPT='%~ » '
 PROMPT="%F{1}%n%F{reset}@%m%f %~ "
 
-# Auto startx
-if [[ -z $DISPLAY ]] && [[ $(tty) = /dev/tty1 ]]; then
-	startx
-fi
-
 # Vars
 export VISUAL="${EDITOR}"
 
