@@ -44,7 +44,6 @@ systemd-resolvconf
 usb_modeswitch
 usbmuxd
 usbutils
-vim
 wireless_tools
 wpa_supplicant
 xfsprogs
