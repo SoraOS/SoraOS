@@ -117,7 +117,6 @@ qt6-svg
 qt6-tools
 qt6-translations
 qt6-webengine
-qt6-xmlpatterns
 qt6ct
 solid
 yaml-cpp
