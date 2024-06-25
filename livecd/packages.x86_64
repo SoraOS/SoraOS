@@ -92,14 +92,51 @@ noto-fonts-extra
 ttf-fira-code
 
 # Desktop
+accountsservice
+evince
 firefox
 flatpak
 gdm
-gnome
+gnome-applets
+gnome-backgrounds
 gnome-browser-connector
-gnome-tweaks
+gnome-calculator
+gnome-calendar
+gnome-characters
+gnome-clocks
+gnome-color-manager
+gnome-console
+gnome-contacts
+gnome-control-center
+gnome-desktop
+gnome-disk-utility
+gnome-font-viewer
+gnome-firmware
+gnome-keyring
+gnome-menus
+gnome-music
+gnome-session
+gnome-settings-daemon
+gnome-shell
 gnome-shell-extensions
+gnome-software
+gnome-system-monitor
+gnome-text-editor
+gnome-tour
+gnome-user-share
+gnome-tweaks
+loupe
+mutter
+nautilus
 neofetch
+polkit-gnome
+simple-scan
+snapshot
+sushi
+totem
+tracker3-miners
+xdg-desktop-portal-gnome
+xdg-user-dirs-gtk
 
 # SoraOS config
 soraos-gnome
